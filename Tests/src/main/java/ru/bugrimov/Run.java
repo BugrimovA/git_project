@@ -6,6 +6,6 @@ package ru.bugrimov;
 public class Run {
 
     public static void main(String[] args) {
-        System.out.println("Проверка запуска");
+        System.out.println("Проверка запуска!!!!");
     }
 }
