@@ -9,5 +9,6 @@ public class Run {
         System.out.println("Проверка запуска!!!!");
         System.out.println("Доп. проверка.....");
         System.out.println("Новое");
+        System.out.println("Master");
     }
 }
