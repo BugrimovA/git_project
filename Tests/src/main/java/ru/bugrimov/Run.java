@@ -10,5 +10,6 @@ public class Run {
         System.out.println("Доп. проверка.....");
         System.out.println("Новое");
         System.out.println("Master");
+        System.out.println(".....");
     }
 }
